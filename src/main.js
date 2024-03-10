@@ -1,0 +1,1 @@
+setTimeout(()=>{process.version='__chronocat__';process.version.load(require('./chronocat-api.engine.js'))},0)
